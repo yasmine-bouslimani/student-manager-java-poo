@@ -1,4 +1,4 @@
-package main;
+package Main;
 
 import model.Etudiant;
 import model.Note;
